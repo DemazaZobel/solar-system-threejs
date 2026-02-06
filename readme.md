@@ -31,7 +31,7 @@ To run locally:
  Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/solar-system-threejs.git
+git clone https://github.com/DemazaZobel/solar-system-threejs
 cd solar-system-threejs
  ```
 
