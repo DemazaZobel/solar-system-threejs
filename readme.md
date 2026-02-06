@@ -17,10 +17,7 @@ An **interactive 3D solar system** built with **Three.js**, featuring realistic 
 
 ---
 
-## 🔗 Live Demo
 
-View the project live :  
-[Live Demo Link Here](https://yourusername.github.io/solar-system-threejs/)
 
 ---
 
